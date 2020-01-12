@@ -11,7 +11,7 @@
 
 ## 목차
 
-1. [옵저버 패턴](옵저버패턴/README.md)
+1. [옵저버 패턴](Observer-Pattern/README.md)
 2. 데코레이터 패턴
 
 ## 참고자료
