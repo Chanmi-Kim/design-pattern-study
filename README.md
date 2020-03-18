@@ -11,19 +11,19 @@
 
 ## 목차
 
-1. [옵저버 패턴](Observer-Pattern/README.md)
-2. 데코레이터 패턴
-3. 팩토리 패턴
-4. 싱글턴 패턴
-5. 커맨드 패턴
-6. 어댑터 패턴
-7. 퍼사드 패턴
-8. 템플릿 메소드 패턴
-9. 이터레이터 패턴
-10. 컴포지트 패턴
-11. 스테이트 패턴
-12. 프록시 패턴
-13. 컴파운드 패턴
+1. [옵저버 패턴 (Observer Pattern)](Observer-Pattern/README.md)
+2. 데코레이터 패턴 (Decorator Pattern)
+3. 팩토리 패턴 (Factory Pattern)
+4. 싱글턴 패턴 (Singleton Pattern)
+5. 커맨드 패턴 (Command Pattern)
+6. 어댑터 패턴 (Adapter Pattern)
+7. 퍼사드 패턴 (Facade Pattern)
+8. 템플릿 메소드 패턴 (Template Method Pattern)
+9. 이터레이터 패턴 (Iterator Pattern)
+10. 컴포지트 패턴 (Composite pattern)
+11. 스테이트 패턴 (State Pattern)
+12. 프록시 패턴 (Proxy pattern)
+13. 컴파운드 패턴 (Compound Pattern)
 
 ## 참고자료
 
