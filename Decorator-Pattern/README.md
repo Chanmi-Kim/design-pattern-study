@@ -1,3 +1,5 @@
+### DESIGN PATTERN 02
+
 # 데코레이터 패턴 (Decorator Pattern)
 
 ## ◼︎ 데코레이터 패턴이란?
